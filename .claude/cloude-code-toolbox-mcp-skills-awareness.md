@@ -1,6 +1,6 @@
 # Claude Code ToolBox — MCP & Skills awareness
 
-_Generated: 2026-10-31T17:55:00.296Z_
+_Generated: 2026-11-01T05:40:33.667Z_
 
 ## How to use this report
 
@@ -21,7 +21,7 @@ _No active workspace servers in mcp.json._
 
 ## MCP — user profile
 
-- **C:\Users\adamaja\.claude.json** — _File missing_
+- **C:\Users\adamaja\.claude.json** — _File exists — no servers defined_
 
 _No active user-scoped servers in mcp.json._
 
