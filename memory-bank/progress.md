@@ -2,7 +2,8 @@
 
 **What works**
 
--
+- Guru admin list, search, create, edit, and delete flows.
+- Guru model points to the `guru` table.
 
 **Not started / backlog**
 

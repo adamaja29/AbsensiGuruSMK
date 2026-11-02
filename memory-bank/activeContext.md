@@ -4,7 +4,7 @@
 
 **In progress**:
 
-- [ ]
+- [x] Implemented teacher CRUD.
 
 **Decisions (recent)**:
 
